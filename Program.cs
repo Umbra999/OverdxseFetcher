@@ -1,0 +1,3 @@
+﻿using OverdxseFetcher;
+
+Main.Init();
