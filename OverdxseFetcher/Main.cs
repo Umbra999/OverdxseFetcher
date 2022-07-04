@@ -89,7 +89,7 @@ namespace OverdxseFetcher
                             Embed
                         };
 
-                        Task.Run(() => SendEmbedWebHook("https://discord.com/api/webhooks/991884799398649997/ns7C8kCQS920qrVRju4lkDcBfyViP12WRfmX27DUa7C4Hx0uof4LW9IaSqEalYRtZcPn", Embeds));
+                        Task.Run(() => SendEmbedWebHook("YOUR WEBHOOK URL", Embeds));
                     }
                 }
             }
